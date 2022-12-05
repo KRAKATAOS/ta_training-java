@@ -1,4 +1,4 @@
-package com.epam.training.student_Konstantin_Belin.fundamentals.main_task;
+package com.epam.training.student_Konstantin_Belin.fundamentals.main_task.ElectronicWatch;
 import java.util.Scanner;
 
 public class ElectronicWatch {

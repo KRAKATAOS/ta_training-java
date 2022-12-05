@@ -1,4 +1,4 @@
-package com.epam.training.student_Konstantin_Belin.fundamentals.main_task;
+package com.epam.training.student_Konstantin_Belin.fundamentals.main_task.GoDutch;
 
 import java.util.Scanner;
 

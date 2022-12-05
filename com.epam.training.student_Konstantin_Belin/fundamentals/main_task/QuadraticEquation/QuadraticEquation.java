@@ -1,4 +1,4 @@
-package com.epam.training.student_Konstantin_Belin.fundamentals.main_task;
+package com.epam.training.student_Konstantin_Belin.fundamentals.main_task.QuadraticEquation;
 import java.util.Scanner;
 import java.util.Locale;
 
