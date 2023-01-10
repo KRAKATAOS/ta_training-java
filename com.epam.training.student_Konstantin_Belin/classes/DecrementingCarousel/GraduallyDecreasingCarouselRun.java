@@ -17,7 +17,9 @@ public class GraduallyDecreasingCarouselRun extends CarouselRun {
             }
         }
         beforeDecreasing = array[position];
+        if (array[position]==decrement){
         array[position++] -= decrement;
+        }
         return beforeDecreasing;
     }
 }
